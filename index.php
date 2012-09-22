@@ -8,4 +8,7 @@ echo 'hello world';
 <?php
 echo 'donno';
 
+
 ?>
+
+<form action="enquiry.php"></form>
